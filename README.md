@@ -1,1 +1,1 @@
-# boiler-react
+# Boiler React
