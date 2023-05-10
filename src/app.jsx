@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import axios from 'axios';
 import './app.scss';
 
-import { Welcome } from './components/Welcome';
+import { ResearchRepository } from './components/ResearchRepository';
 
 
 export class App extends React.Component {
@@ -22,7 +22,7 @@ export class App extends React.Component {
 
     render() {
         return (
-            <Welcome />
+            <ResearchRepository />
         )
     }
 

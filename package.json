@@ -1,5 +1,5 @@
 {
-    "name": "react-boiler",
+    "name": "aorai-research-repository",
     "version": "1.0.0",
     "license": "MIT",
     "scripts": {
@@ -7,10 +7,18 @@
         "build": "parcel build src/index.html"
     },
     "dependencies": {
+        "@mdi/js": "^7.2.96",
+        "@mdi/react": "^1.6.1",
+        "airtable": "^0.11.6",
         "axios": "^0.27.2",
+        "bootstrap": "^5.2.3",
+        "country-iso-3-to-2": "^1.1.1",
         "parcel": "^2.6.2",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-bootstrap": "^2.7.4",
+        "react-country-flag": "^3.1.0",
+        "react-dom": "^18.2.0",
+        "react-multi-select-component": "^4.3.4"
     },
     "devDependencies": {
         "@parcel/transformer-sass": "2.6.2",
